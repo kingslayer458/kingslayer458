@@ -15,20 +15,8 @@ Explore my latest projects below:
 | 🔐 **SSH Login Using Brute Force** | [View Project →](https://github.com/kingslayer458/SSH-login-using-brute-force) |
 | 🕵️ **SSH Honeypot with Web-Based Log Viewer** | [View Project →](https://github.com/kingslayer458/SSH-Honeypot-with-Web-Based-Log-Viewer) |
 | 🎮 **Game Searcher Using Steam API** | [View Project →](https://github.com/kingslayer458/game-searcher-using-steam-api) |
-| 🔍 **Steam Game Searcher Using raw** | [View Project →](https://github.com/kingslayer458/steam-game-searcher) |
-| 📧 **Sending Email Using Node.js** | [View Project →](https://github.com/kingslayer458/sending-email-using-node-js) |
-| 📜 **Dr. Norman Tribute Page** | [View Project →](https://github.com/kingslayer458/dr-norman-tribute-page) |
-| 🏠 **Hostel Management System** | [View Project →](https://github.com/kingslayer458/hostel-management-system) |
+| 🔍 **Steam Game Searcher Using Rawg API** | [View Project →](https://github.com/kingslayer458/steam-game-searcher) |
 | 💣 **Fork Bomb** | [View Project →](https://github.com/kingslayer458/fork-bomb) |
-
-## personal projects
-| Project | Link |
-|---------|------|
-| 📂 **File Sharing System** | [View Project →](https://github.com/kingslayer458/file-sharing-system) |
-| 🌤️ **Weather Application** | [View Project →](https://github.com/kingslayer458/weather-application) |
-| 📝 **Personal Portfolio** | [View Project →](https://github.com/kingslayer458/personal-portfolio) |
-| 🎮 **Red Dead Redemption 2 Wallpaper Website** | [View Project →](https://github.com/kingslayer458/RED-DEAD-REDEMPTION-2-WALLPAPER-WEBSITE) |
-| 🎶 **Lana Del Rey Radio** | [View Project →](https://github.com/kingslayer458/lana-del-ray) |
 | 🚨 **Cowrie Honeypot Alert Using Nodemailer and Twilio** | [View Project →](https://github.com/kingslayer458/Cowrie-Honeypot-Alert-Using-Nodemailer-And-Twilio) |
 | 🤖 **SSH Honeypot with Machine Learning** | [View Project →](https://github.com/kingslayer458/Ssh-Honeypot-With-Machine-Learning) |
 | 💬 **Real-Time Chat App with Socket.IO** | [View Project →](https://github.com/kingslayer458/A-Real-time-Chat-App-with-Socket.IO) |
