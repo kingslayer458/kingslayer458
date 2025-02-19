@@ -14,13 +14,14 @@ Explore my latest projects below:
 | 🎥 **KINGPLAY VIDEO STREAMER** | [View Project →](https://github.com/kingslayer458/KINGPLAY-VIDEO-STREAMER) |
 | 🔐 **SSH Login Using Brute Force** | [View Project →](https://github.com/kingslayer458/SSH-login-using-brute-force) |
 | 🕵️ **SSH Honeypot with Web-Based Log Viewer** | [View Project →](https://github.com/kingslayer458/SSH-Honeypot-with-Web-Based-Log-Viewer) |
-| 🎮 **Game Searcher Using Steam API** | [View Project →](https://github.com/kingslayer458/game-searcher-using-steam-api) |
 | 🔍 **Steam Game Searcher Using Rawg API** | [View Project →](https://github.com/kingslayer458/steam-game-searcher) |
 | 💣 **Fork Bomb** | [View Project →](https://github.com/kingslayer458/fork-bomb) |
 | 🚨 **Cowrie Honeypot Alert Using Nodemailer and Twilio** | [View Project →](https://github.com/kingslayer458/Cowrie-Honeypot-Alert-Using-Nodemailer-And-Twilio) |
 | 🤖 **SSH Honeypot with Machine Learning** | [View Project →](https://github.com/kingslayer458/Ssh-Honeypot-With-Machine-Learning) |
 | 💬 **Real-Time Chat App with Socket.IO** | [View Project →](https://github.com/kingslayer458/A-Real-time-Chat-App-with-Socket.IO) |
 | 📊 **Enhanced GitHub Activity Viewer using GitHub API** | [View Project →](https://github.com/kingslayer458/Enhanced-GitHub-Activity-Viewer-using-github-api) |
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kingslayer458/kingslayer458/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kingslayer458/kingslayer458/output/github-snake.svg" />
