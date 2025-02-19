@@ -22,6 +22,8 @@ Explore my latest projects below:
 | 💣 **Fork Bomb** | [View Project →](https://github.com/kingslayer458/fork-bomb) |
 
 ##personal projects
+| Project | Link |
+|---------|------|
 
 | 📂 **File Sharing System** | [View Project →](https://github.com/kingslayer458/file-sharing-system) |
 | 🌤️ **Weather Application** | [View Project →](https://github.com/kingslayer458/weather-application) |
