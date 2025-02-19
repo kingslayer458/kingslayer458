@@ -5,3 +5,15 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+## 🚀 Visit My Projects
+
+Explore my latest projects below:
+
+### 🔹 [Project 1 - Online File Sharing](https://example.com)
+A web-based platform for secure and easy file sharing with real-time upload tracking.
+
+### 🔹 [Project 2 - Cloud Storage App](https://example.com)
+A cloud-based storage solution that allows users to store and manage their files efficiently.
+
+### 🔹 [Project 3 - AI-Powered Survey Tool](https://example.com)
+An open-source survey tool using AI to analyze and provide insights on responses.
