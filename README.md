@@ -9,30 +9,13 @@
 
 Explore my latest projects below:
 
-  <!-- Project 15: Cowrie Honeypot Alert Using Nodemailer and Twilio -->
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; background: linear-gradient(135deg, #f5f7fa, #c3cfe2); box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
-    <h3>🚨 Cowrie Honeypot Alert Using Nodemailer and Twilio</h3>
-    <p>A JavaScript-based SSH honeypot alert system.</p>
-    <a href="https://github.com/kingslayer458/Cowrie-Honeypot-Alert-Using-Nodemailer-And-Twilio" style="text-decoration: none; color: #0366d6;">View Project →</a>
-  </div>
+  Explore my latest projects below:
 
- 
-  <!-- Project 17: Real-Time Chat App with Socket.IO -->
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; background: linear-gradient(135deg, #f5f7fa, #c3cfe2); box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
-    <h3>💬 Real-Time Chat App with Socket.IO</h3>
-    <p>A real-time chat application using Socket.IO.</p>
-    <a href="https://github.com/kingslayer458/A-Real-time-Chat-App-with-Socket.IO" style="text-decoration: none; color: #0366d6;">View Project →</a>
-  </div>
-
-  <!-- Project 18: Enhanced GitHub Activity Viewer using GitHub API -->
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; background: linear-gradient(135deg, #f5f7fa, #c3cfe2); box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
-    <h3>📊 Enhanced GitHub Activity Viewer using GitHub API</h3>
-    <p>A tool to view GitHub activity in an enhanced format.</p>
-    <a href="https://github.com/kingslayer458/Enhanced-GitHub-Activity-Viewer-using-github-api" style="text-decoration: none; color: #0366d6;">View Project →</a>
-  </div>
-
-</div>
-
+| Project | Description | Link |
+|---------|------------|------|
+| 🚨 **Cowrie Honeypot Alert Using Nodemailer and Twilio** | A JavaScript-based SSH honeypot alert system. | [View Project →](https://github.com/kingslayer458/Cowrie-Honeypot-Alert-Using-Nodemailer-And-Twilio) |
+| 💬 **Real-Time Chat App with Socket.IO** | A real-time chat application using Socket.IO. | [View Project →](https://github.com/kingslayer458/A-Real-time-Chat-App-with-Socket.IO) |
+| 📊 **Enhanced GitHub Activity Viewer using GitHub API** | A tool to view GitHub activity in an enhanced format. | [View Project →](https://github.com/kingslayer458/Enhanced-GitHub-Activity-Viewer-using-github-api) |
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kingslayer458/kingslayer458/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kingslayer458/kingslayer458/output/github-snake.svg" />
