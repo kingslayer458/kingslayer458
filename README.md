@@ -21,10 +21,9 @@ Explore my latest projects below:
 | 🏠 **Hostel Management System** | [View Project →](https://github.com/kingslayer458/hostel-management-system) |
 | 💣 **Fork Bomb** | [View Project →](https://github.com/kingslayer458/fork-bomb) |
 
-##personal projects
+## personal projects
 | Project | Link |
 |---------|------|
-
 | 📂 **File Sharing System** | [View Project →](https://github.com/kingslayer458/file-sharing-system) |
 | 🌤️ **Weather Application** | [View Project →](https://github.com/kingslayer458/weather-application) |
 | 📝 **Personal Portfolio** | [View Project →](https://github.com/kingslayer458/personal-portfolio) |
