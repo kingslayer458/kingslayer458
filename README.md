@@ -20,6 +20,9 @@ Explore my latest projects below:
 | 🤖 **SSH Honeypot with Machine Learning** | [View Project →](https://github.com/kingslayer458/Ssh-Honeypot-With-Machine-Learning) |
 | 💬 **Real-Time Chat App with Socket.IO** | [View Project →](https://github.com/kingslayer458/A-Real-time-Chat-App-with-Socket.IO) |
 | 📊 **Enhanced GitHub Activity Viewer using GitHub API** | [View Project →](https://github.com/kingslayer458/Enhanced-GitHub-Activity-Viewer-using-github-api) |
+<div class="github-link-container">
+    <p>Want to see more projects?  Click <a href="YOUR_GITHUB_REPOSITORY_URL" target="_blank">here</a> to view the repository.</p>
+</div>
 
 
 <picture>
