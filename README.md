@@ -9,8 +9,6 @@
 
 Explore my latest projects below:
 
-  Explore my latest projects below:
-
 | Project | Description | Link |
 |---------|------------|------|
 | 🚨 **Cowrie Honeypot Alert Using Nodemailer and Twilio** | A JavaScript-based SSH honeypot alert system. | [View Project →](https://github.com/kingslayer458/Cowrie-Honeypot-Alert-Using-Nodemailer-And-Twilio) |
