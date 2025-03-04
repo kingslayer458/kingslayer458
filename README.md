@@ -23,8 +23,7 @@ Explore my latest projects below:
 <div class="github-link-container">
     <p>Want to see more projects🚀? <a href="https://kingslayer458.github.io/Projects-showcase/" target="_blank">Click here</a></p>
 </div>
- <img src="https://github-readme-stats.vercel.app/api?username=kingslayer458&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kingslayer458&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kingslayer458/kingslayer458/output/github-snake-dark.svg" />
