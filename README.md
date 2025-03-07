@@ -27,10 +27,12 @@ Explore my latest projects below:
     <p>Want to see more projects🚀? <a href="https://kingslayer458.github.io/Projects-showcase/" target="_blank">Click here</a></p>
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kingslayer458&show_icons=true&locale=en" alt="mjmaster" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingslayer458&show_icons=true&locale=en&layout=compact" alt="mjmaster" /></p>
-
+<p align="center">
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=kingslayer458&show_icons=true&locale=en" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kingslayer458&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  </div>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kingslayer458/kingslayer458/output/github-snake-dark.svg" />
