@@ -8,10 +8,6 @@
 <a href="https://www.youtube.com/@mjkumar77717" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mjmaster" height="30" width="40" /></a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kingslayer458&show_icons=true&locale=en" alt="mjmaster" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingslayer458&show_icons=true&locale=en&layout=compact" alt="mjmaster" /></p>
-
 ## 🚀 Visit My Projects
 
 Explore my latest projects below:
@@ -30,6 +26,10 @@ Explore my latest projects below:
 <div class="github-link-container">
     <p>Want to see more projects🚀? <a href="https://kingslayer458.github.io/Projects-showcase/" target="_blank">Click here</a></p>
 </div>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kingslayer458&show_icons=true&locale=en" alt="mjmaster" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingslayer458&show_icons=true&locale=en&layout=compact" alt="mjmaster" /></p>
 
 
 <picture>
