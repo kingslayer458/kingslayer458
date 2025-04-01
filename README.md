@@ -24,7 +24,7 @@ Explore my latest projects below:
 | 💬 **Real-Time Chat App with Socket.IO** | [View Project →](https://github.com/kingslayer458/A-Real-time-Chat-App-with-Socket.IO) |
 | 📊 **Enhanced GitHub Activity Viewer using GitHub API** | [View Project →](https://github.com/kingslayer458/Enhanced-GitHub-Activity-Viewer-using-github-api) |
 <div class="github-link-container">
-    <p>Want to see more project🚀? <a href="https://kingslayer458.github.io/Projects-showcase/" target="_blank">Click here</a></p>
+    <p>Want to see more projects🚀? <a href="https://kingslayer458.github.io/Projects-showcase/" target="_blank">Click here</a></p>
 </div>
 <div class="github-link-container">
     <p>A collection of my deployed web applications🚀<a href="https://kingslayer458.github.io/my-deployed-web-applications/" target="_blank">Click here</a></p>
