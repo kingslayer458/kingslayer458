@@ -32,8 +32,9 @@ Explore my latest projects below:
 
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://stats.gcpr.dev/api?username=kingslayer458&show_icons=true" />
-    <img src="https://stats.gcpr.dev/api/top-langs?username=kingslayer458&layout=compact" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kingslayer458&show_icons=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=kingslayer458&layout=compact" />
+
   </div>
 </p>
 
